@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Bootstrap Prc</h1>
+      <h2>Goood </h2>
     </div>
   );
 }
